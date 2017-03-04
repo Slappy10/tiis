@@ -1,5 +1,5 @@
 # App con Django y python 
-* Versiones de las tecnologías usadas
+Versiones de las tecnologías usadas
 * Django 1.10
 * Python 3.5.2
 
