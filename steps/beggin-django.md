@@ -1,4 +1,4 @@
-# Es una vaina
+# Pasos
 * Crear una carpeta
 > mkdir djangoapps
 * Crear un virtualenv
